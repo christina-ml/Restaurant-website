@@ -1,0 +1,21 @@
+body {
+  font-family: arial;
+  text-align: center;
+  margin: 0 auto;
+  background-color: #A8E6CF;
+}
+
+h1 {
+  color: #0894A1;
+}
+
+img {
+  width: 65%;
+}
+
+h2 {
+  color: #b8862b;
+  border: 1px solid black;
+  margin: 50px;
+  padding: 50px;
+}
